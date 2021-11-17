@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_57949" data-name="Rectangle 57949" width="24" height="24" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-sidebar">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="sidebar" clip-path="url(#clip-sidebar)">
+    <g id="Mask_Group_240" data-name="Mask Group 240" clip-path="url(#clip-path)">
+      <g id="Icon_feather-bar-chart-2" data-name="Icon feather-bar-chart-2" transform="translate(23.21 1.8) rotate(90)">
+        <path id="Path_51467" data-name="Path 51467" d="M1.2,0A1.2,1.2,0,0,0,0,1.2v15a1.2,1.2,0,1,0,2.4,0V1.2A1.2,1.2,0,0,0,1.2,0Z" transform="translate(18 0)"/>
+        <path id="Path_51468" data-name="Path 51468" d="M1.2,0A1.2,1.2,0,0,0,0,1.2V21.219a1.2,1.2,0,0,0,2.4,0V1.2A1.2,1.2,0,0,0,1.2,0Z" transform="translate(9)"/>
+        <path id="Path_51469" data-name="Path 51469" d="M1.2,0A1.2,1.2,0,0,0,0,1.2v9a1.2,1.2,0,1,0,2.4,0v-9A1.2,1.2,0,0,0,1.2,0Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.667" y1="0.167" x2="0.417" y2="0.75" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#37aee2"/>
+      <stop offset="1" stop-color="#1e96c8"/>
+    </linearGradient>
+    <clipPath id="clip-Telegram">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Telegram" clip-path="url(#clip-Telegram)">
+    <g id="telegram-new-2019-seeklogo.com" transform="translate(0 -0.328)">
+      <circle id="Ellipse_6165" data-name="Ellipse 6165" cx="11" cy="11" r="11" transform="translate(1 1.328)" fill="url(#linear-gradient)"/>
+      <path id="Path_51275" data-name="Path 51275" d="M42.474,75.092l8.244-3.4c.814-.354,3.574-1.486,3.574-1.486s1.274-.5,1.168.708c-.035.5-.318,2.229-.6,4.1l-.885,5.555s-.071.814-.672.955a2.91,2.91,0,0,1-1.769-.637c-.142-.106-2.654-1.7-3.574-2.477a.67.67,0,0,1,.035-1.132c1.274-1.168,2.8-2.618,3.715-3.538.425-.425.849-1.415-.92-.212L45.8,76.9a2.079,2.079,0,0,1-1.628.035c-1.062-.318-2.3-.743-2.3-.743s-.849-.531.6-1.1Z" transform="translate(-37.378 -62.893)" fill="#fff"/>
+      <rect id="Rectangle_62239" data-name="Rectangle 62239" width="24" height="24" transform="translate(0 0.328)" fill="none"/>
+    </g>
+  </g>
+</svg>

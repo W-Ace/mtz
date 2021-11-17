@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-USDT">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="USDT" clip-path="url(#clip-USDT)">
+    <g id="Group_40406" data-name="Group 40406">
+      <g id="tether-1" transform="translate(1 1)">
+        <path id="path0_fill" d="M11,0A11,11,0,1,1,0,11,11,11,0,0,1,11,0Z" fill="#26a17b"/>
+        <g id="Vector_1_" transform="translate(4.453 5.578)">
+          <path id="path1_fill" d="M-180.394,369.969v-1.653h3.777V365.8H-186.9v2.516h3.777v1.653c-3.068.142-5.377.749-5.377,1.477s2.309,1.335,5.377,1.477v5.288h2.732v-5.288c3.065-.142,5.368-.749,5.368-1.477S-177.329,370.11-180.394,369.969Zm0,2.507c-.077,0-.472.028-1.354.028-.706,0-1.2-.018-1.375-.028v0c-2.71-.12-4.736-.592-4.736-1.156s2.023-1.036,4.736-1.156V372c.179.012.684.043,1.387.043.842,0,1.264-.034,1.344-.043V370.16c2.707.12,4.727.592,4.727,1.156s-2.026,1.036-4.73,1.159" transform="translate(188.5 -365.8)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="Rectangle_62251" data-name="Rectangle 62251" width="24" height="24" fill="none"/>
+    </g>
+  </g>
+</svg>
